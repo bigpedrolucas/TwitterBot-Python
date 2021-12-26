@@ -1,0 +1,2 @@
+r="Eu amo tecnologia"
+-Eu também amo tecnologia!
